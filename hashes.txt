@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cenizas de nuestro pasado juntos
+
+This log tracks the cryptographic history and versioning for the song **Cenizas de nuestro pasado juntos** (cenizas-de-nuestro-pasado-juntos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T21:39:34.366890 | `v1` | `817584063361defe75378a34f63b8409860a9fb1b195c73c942510b203dc0bac` | `82f151db1aa5b8837a8e486db595a7d70dac39aed169d03eb3e316ff45d91af3` | `2026-06-14_cenizas-de-nuestro-pasado-juntos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
