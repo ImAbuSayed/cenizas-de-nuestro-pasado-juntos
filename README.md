@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cenizas-de-nuestro-pasado-juntos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Cenizas de nuestro pasado juntos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-de-nuestro-pasado-juntos/) |
+| **Get License** | [Obtain a Music License for Cenizas de nuestro pasado juntos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-de-nuestro-pasado-juntos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche la ciudad respira nuestro fuego
+> Buscando en la oscuridad las reglas de tu juego
+> Tus labios me saben a peligro y a veneno
+> Yo solo te quiero cerca rompiendo el hielo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
